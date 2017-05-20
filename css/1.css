@@ -1,0 +1,110 @@
+body{
+	padding: 0;
+	overflow-x: hidden;
+}
+.incoming{
+	background: url('1.svg') no-repeat;
+	background-position: 0 38%;
+	background-size: 100%;
+	width: 100vw;
+	height: 30vh;
+}
+.ali{
+	float: right;
+	margin-top: 5%;
+	margin-right: 1.7%;
+}
+.menu{
+	float: left;
+	margin-left: 1%;
+	width: 100vw;
+	font-weight: 700;
+}
+a{
+	color: black;
+}
+.spa{
+	margin-left: 1%
+}
+.maina{
+	margin-top: 1%;
+	margin-left: 5%;
+	height: 80vh;
+	width: 60vw;
+	background: url('2.jpg') fixed center center ;
+	float: left;
+}
+.carder{
+	background: white;
+	float: right;
+	width: 60%;
+	height:100%;
+	margin-right:8%;
+	margin-bottom: 1%;
+	text-align: center;
+ box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	
+	font-size: 3em;
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.topper{
+	text-align: left;
+	font-weight: 700;
+	font-size: 0.3em;
+}
+h1.main{
+	word-wrap: break-word;
+
+}
+.dsds{
+	margin-top: 0;
+
+	font-size: 0.2em;
+	text-transform: none;
+	font-weight: 900;
+	opacity: .6;
+	text-align:left;
+}
+.sider{
+		border-top: 1px solid rgba(0,0,0,.3);
+	float: right;
+	margin-right: 1%;
+	padding: 1%;
+	padding-left: 1%;
+	height: auto;
+width: 30vw;
+border-bottom: 1px solid rgba(0,0,0,.3);
+
+}
+/* No issues   */ /* Scaling Excellent */
+.issuer{
+	position: relative;
+	margin-top: 96vh;
+
+	text-align: center;
+z-index: 1;
+	height: 80vh;
+	width: 400vw;
+}
+.cards{
+	height: 70vh;
+	background: white;
+	margin-left: 10%;
+	width: 30vw;
+	 box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	 
+}
+.sider:first-child{
+	border-top: 1px solid rgba(0,0,0,.3);
+}
+.sidecontrol{
+	margin-top: 7%;
+}
+.fght{
+	border-bottom: 0px solid rgba(0,0,0,0);
+	transition: all ease 0.5s;
+}
+.fght:hover{
+	border-bottom: 1px solid rgba(1,3,4,1);
+}
